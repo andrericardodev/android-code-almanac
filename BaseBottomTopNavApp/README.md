@@ -1,4 +1,4 @@
-## Checklist para implementar do componente navigation do jetpack em um aplicativo Android utilizando layout XML, BottomNavigation e TopAppBar.
+## Checklist para implementar o componente navigation do jetpack em um aplicativo Android utilizando, BottomNavigation e TopAppBar com layout XML
 
 ## Checklist
 
