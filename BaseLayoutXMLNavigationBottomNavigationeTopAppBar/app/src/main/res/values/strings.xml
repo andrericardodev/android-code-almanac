@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Base Layout XML - Navigation, BottomNavigation e TopAppBar</string>
+
+    <!-- Menu - BottomNavigation -->
+    <string name="app_menu_home">Home</string>
+    <string name="app_menu_screen_b">Screen B</string>
+    <string name="app_menu_screen_c">Screen C</string>
+
+    <!-- Title screens -->
+    <string name="title_screen_home">Home</string>
+    <string name="title_screen_b">Screen B</string>
+    <string name="title_screen_c">Screen C</string>
+
+</resources>

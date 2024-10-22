@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/screen_c"
+    app:startDestination="@id/screenCFragment">
+
+    <fragment
+        android:id="@+id/screenCFragment"
+        android:name="dev.andrericardo.base_layout_xml_navigation_bottomnavigation_topappbar.ScreenCFragment"
+        android:label="@string/title_screen_c"
+        tools:layout="@layout/fragment_screen_c" />
+</navigation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/screen_b"
+    app:startDestination="@id/screenBFragment">
+
+    <fragment
+        android:id="@+id/screenBFragment"
+        android:name="dev.andrericardo.base_layout_xml_navigation_bottomnavigation_topappbar.ScreenBFragment"
+        android:label="@string/title_screen_b"
+        tools:layout="@layout/fragment_screen_b" />
+</navigation>
